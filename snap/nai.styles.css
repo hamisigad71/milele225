@@ -1,0 +1,40 @@
+h1{
+    word-spacing: 2ch;
+    text-align: center;
+    color: rgb(244, 11, 11);
+    font-family: 'Playfair Display', serif; ;
+
+}
+p{
+word-spacing: 1ch;
+padding-right: 70px;
+font-size: 25px;
+color: black;
+padding-bottom: 20px;
+font-style: italic;
+
+}
+h2{
+    word-spacing: 0.5ch;
+    color: blue;
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1663497653290-1b8f327096f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+}
+img{
+    border-radius: 2rem;
+    height: 40%;
+    
+}
+@media(max-width:600px){
+    p{
+        word-spacing: 1ch;
+        padding-right: 70px;
+        font-size: 15px;
+        color: black;
+        padding-bottom: 10px;
+        font-style: italic;
+        
+        }  
+}

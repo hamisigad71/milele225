@@ -1,0 +1,14 @@
+h1{
+    text-align: justify;
+    font-size: x-large;
+    color: red;
+    font-size: 40px;
+     font-family: 'Playfair Display', serif;;
+  
+  }
+  body{
+    background-image: url('https://images.unsplash.com/photo-1663497653290-1b8f327096f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+  }
+  p{
+    font-size: 27px;
+  }

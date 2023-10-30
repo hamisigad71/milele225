@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MILELE</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    
+</head>
+
+<body>
+
+    
+
+    <h1>MILELE AFRICA INSTITUTE </h1>
+    <h2>OF DEVELOPMENT & TECHNOLOGY <br> BEST COLLEGE IN KENYA</h2>
+    <h5 style="font-style: italic;"> (equiping students with knowledge in ICT , Engineering , cosmestology, Community Health and Nursing )</h5>
+    <h4>open learning, development and Research Associates Africa</h4>
+<hr style="height:7px;border-width:0;color:rgb(0, 0, 0);background-color: black">
+
+
+<div class="dropdownmenu">
+
+  <ul>
+      
+      <li> <a href="/">; <style></style>HOME</a></li>
+      <li> <a href="/">ABOUT</a></li>
+
+      <li> <a href="/" style="font-size: 15px;">Our Branches</a>
+      <ul id="submenu">
+          <li> <a href="/" >NAIROBI<br>(main campus)</a></li>
+          <li> <a href="/">Mombasa Campus</a></li>
+          <li> <a href="/">Makueni Campus</a>
+      </ul>
+      
+      <li><a href="">COURSES</a>
+            
+            <UL id="submenu">
+                <li><a href="http://127.0.0.1:3000/index.html">DIPLOMA</a></li>
+                <li><a href="http://127.0.0.1:5500/index.html">CERTIFICATE</a></li>
+                <li><a href="">ARTISAN</a></li>
+
+
+            </UL>
+            </li>
+      </li>
+      <li> <a href=""> NEWS </a>
+        <ul id="submenu">
+        <li> <a href="/" >RECENT</a></li></li>
+   
+  </ul>
+</div>
+  <br>
+  
+  
+   
+    </body>
+    </html> 
+
+    
